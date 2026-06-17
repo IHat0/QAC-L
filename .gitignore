@@ -1,0 +1,6 @@
+.env
+config.py
+_pycache_/
+*.pyc
+*.png
+*jpg
