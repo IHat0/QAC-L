@@ -1,4 +1,3 @@
-```markdown
 # ⚛️ QAC-L: Quantum AI Compiler (LLM)
 
 **QAC-L** is a closed-loop AI-Quantum pipeline developed by **Pulsate Labs**. It translates natural language into executable quantum circuits, runs them on simulators or IBM Quantum hardware, and translates the raw quantum measurements back into understandable English. 
@@ -42,4 +41,3 @@ The current QAC-L pipeline is architected to handle 5 widely-known quantum mecha
 
 ---
 *Developed by Pulsate Labs © 2024*
-```
